@@ -1,11 +1,11 @@
-package com.highradius.managerImpl;
+package com.debanshu777.managerImpl;
 
-import com.highradius.dao.FilmHibernateDAOInterface;
-import com.highradius.daoImpl.ApplicationContextSingleton;
-import com.highradius.daoImpl.FilmDAO;
-import com.highradius.daoImpl.FilmHibernateDAO;
-import com.highradius.manager.FilmManagerInterface;
-import com.highradius.model.FilmPOJO;
+import com.debanshu777.dao.FilmHibernateDAOInterface;
+import com.debanshu777.daoImpl.ApplicationContextSingleton;
+import com.debanshu777.daoImpl.FilmDAO;
+import com.debanshu777.daoImpl.FilmHibernateDAO;
+import com.debanshu777.manager.FilmManagerInterface;
+import com.debanshu777.model.FilmPOJO;
 
 public class FilmManager implements FilmManagerInterface{
 	private static FilmHibernateDAOInterface filmHibernateDAO;

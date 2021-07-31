@@ -1,4 +1,4 @@
-package com.highradius.daoImpl;
+package com.debanshu777.daoImpl;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

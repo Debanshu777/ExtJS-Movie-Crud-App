@@ -1,4 +1,4 @@
-package com.highradius.model;
+package com.debanshu777.model;
 
 public class FilmPOJO {
 	

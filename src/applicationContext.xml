@@ -6,14 +6,14 @@
             http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
 	<bean id="filmDAO"
-		class="com.highradius.daoImpl.FilmDAO">
+		class="com.debanshu777.daoImpl.FilmDAO">
 	</bean>
 	<bean id="filmPOJO"
-		class="com.highradius.model.FilmPOJO">
+		class="com.debanshu777.model.FilmPOJO">
 	</bean>
 	<bean id="filmHibernateDAO"
-		class="com.highradius.daoImpl.FilmHibernateDAO">
+		class="com.debanshu777.daoImpl.FilmHibernateDAO">
 	</bean>
-	<bean id="filmManger" class="com.highradius.managerImpl.FilmManager"/>
+	<bean id="filmManger" class="com.debanshu777.managerImpl.FilmManager"/>
 
 </beans> 

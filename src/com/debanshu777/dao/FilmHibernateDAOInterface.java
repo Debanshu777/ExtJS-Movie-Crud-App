@@ -1,6 +1,6 @@
-package com.highradius.dao;
+package com.debanshu777.dao;
 
-import com.highradius.model.FilmPOJO;
+import com.debanshu777.model.FilmPOJO;
 
 public interface FilmHibernateDAOInterface {
 

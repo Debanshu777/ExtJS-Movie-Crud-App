@@ -1,7 +1,7 @@
-package com.highradius.manager;
+package com.debanshu777.manager;
 
-import com.highradius.daoImpl.FilmHibernateDAO;
-import com.highradius.model.FilmPOJO;
+import com.debanshu777.daoImpl.FilmHibernateDAO;
+import com.debanshu777.model.FilmPOJO;
 
 public interface FilmManagerInterface {
 	

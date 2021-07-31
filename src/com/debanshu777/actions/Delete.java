@@ -1,9 +1,9 @@
-package com.highradius.actions;
+package com.debanshu777.actions;
 
 
-import com.highradius.daoImpl.ApplicationContextSingleton;
-import com.highradius.manager.FilmManagerInterface;
-import com.highradius.managerImpl.FilmManager;
+import com.debanshu777.daoImpl.ApplicationContextSingleton;
+import com.debanshu777.manager.FilmManagerInterface;
+import com.debanshu777.managerImpl.FilmManager;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class Delete extends ActionSupport{
